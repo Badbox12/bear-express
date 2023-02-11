@@ -1,0 +1,26 @@
+{
+  "name": "bear-express",
+  "version": "1.0.0",
+  "description": "deploy express to vercel",
+  "main": "index.js",
+  "engines": {
+    "node": "19.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Badbox12/bear-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Badbox12/bear-express/issues"
+  },
+  "homepage": "https://github.com/Badbox12/bear-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
